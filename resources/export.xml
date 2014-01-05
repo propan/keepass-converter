@@ -1,0 +1,35 @@
+<!DOCTYPE KEEPASSX_DATABASE>
+<database>
+ <group>
+  <title>Internet</title>
+  <icon>1</icon>
+  <entry>
+   <title>PayPal</title>
+   <username>my-secret-name@my-domain.com</username>
+   <password>my-secret-password</password>
+   <url>http://paypal.com</url>
+   <comment>tiny secret note</comment>
+   <icon>1</icon>
+   <creation>2014-01-05T13:19:17</creation>
+   <lastaccess>2014-01-05T13:20:45</lastaccess>
+   <lastmod>2014-01-05T13:20:45</lastmod>
+   <expire>Never</expire>
+  </entry>
+ </group>
+ <group>
+  <title>eMail</title>
+  <icon>19</icon>
+  <entry>
+   <title>Gmail</title>
+   <username>my-secret-name@gmail.com</username>
+   <password>another-secret-password</password>
+   <url>http://gmail.com</url>
+   <comment>Q: Do you know the answer on my secret question? A: I hope I do</comment>
+   <icon>19</icon>
+   <creation>2014-01-05T13:20:53</creation>
+   <lastaccess>2014-01-05T13:22:53</lastaccess>
+   <lastmod>2014-01-05T13:22:53</lastmod>
+   <expire>Never</expire>
+  </entry>
+ </group>
+</database>
